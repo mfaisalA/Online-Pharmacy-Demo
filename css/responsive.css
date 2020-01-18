@@ -1,0 +1,345 @@
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+  .what-we .jcarousel li {
+    float: left;
+    padding: 17px;
+    width: 188px;
+  }
+  .figimage img {
+    width: 313px;
+  }
+  section.footer .figimage h4 {
+    top: 60px;
+  }
+  .our-partners .jcarousel li {
+    width: 124px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  header .contact-aside {
+    float: left;
+  }
+  header .contact-aside li {
+    padding: 5px;
+  }
+  header .social {
+    padding-top: 6px;
+  }
+  .page-logo {
+    width: 100%;
+  }
+  .clients li {
+    float: none;
+    margin-bottom: 20px;
+  }
+  .clients li:first-child {
+    margin-left: 21px;
+  }
+  .top-footer .row > div {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .row {
+    margin: 0;
+  }
+  .spotlight .caption {
+    position: relative;
+    top: 0;
+  }
+  .what-we {
+    margin-top: -66px;
+  }
+  section.footer .figimage {
+    width: 33.333%;
+  }
+  section.footer .figimage h4 {
+    top: 30px;
+  }
+  section.footer #our-partners .jcarousel li {
+    margin-right: 5px;
+    width: 100px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 990px) {
+  .contact-aside li a {
+    padding-left: 15px;
+  }
+  header .social {
+    margin-top: 0;
+  }
+  .slogan-aside {
+    padding: 8px;
+  }
+  header .contact-aside li {
+    padding: 8px;
+  }
+  .social li {
+    float: left;
+    padding-left: 0px;
+  }
+  nav.main-nav ul li a {
+    margin-top: 33px;
+  }
+  .sub-menu {
+    display: inline-block;
+  }
+  .sub-menu ul li a {
+    margin-top: 5px;
+  }
+  .what-we .jcarousel ul {
+    width: 100%;
+  }
+  .what-we .jcarousel li {
+    width: 100%;
+  }
+  .our-partners .jcarousel li {
+    float: none;
+    margin: 0 auto;
+    padding-top: 10px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  nav.main-nav ul li a {
+    margin-top: 33px;
+  }
+  nav.main-nav ul ul li a {
+    margin-top: 5px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .navbar-toggle{
+    padding-top: 3px;
+  }
+  .navbar {
+    margin: 0;
+    position: absolute;
+    right: 0;
+    top: 30px;
+    left: 0;
+  }
+  .social {
+    display: none;
+  }
+  nav.main-nav ul {
+    display: block;
+  }
+  nav.main-nav ul li {
+    display: block;
+    float: none;
+    width: 100% !important;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  nav.main-nav ul li a {
+    padding: 10px;
+  }
+  .navbar-nav {
+    margin: 0;
+  }
+  .what-we li {
+    padding: 0;
+  }
+  .navbar {
+    margin: 0;
+    position: absolute;
+    right: 0;
+    top: 30px;
+    left: 0;
+  }
+  .slogan-aside {
+    padding: 5px;
+  }
+  header .aside-wrapper {
+    float: left;
+  }
+  header .aside-wrapper li {
+    float: left;
+  }
+  header .aside-wrapper .contact-aside {
+    float: left;
+  }
+  nav.main-nav ul li a {
+    background-color: #f7f7f7;
+    z-index: 100;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+  .main-nav ul li ul li{
+    padding: 0px;
+  }
+  .main-nav ul li:hover > ul {
+      display: table-cell;
+      position: relative;
+  }
+  .current-menu-item > a {
+    background-color: #009d56 !important;
+  }
+  .what-we .jcarousel li {
+    width: 100%;
+  }
+  .what-we {
+    margin-top: -66px;
+  }
+  .our-partners .carousel-indicators {
+    display: none;
+  }
+  .footer_banner_box img {
+  visibility: hidden;
+}
+}
+
+@media screen and (max-width: 680px) {
+  header .contact-aside,
+  header .social {
+    float: right;
+  }
+  header .aside-wrapper li {
+    float: right;
+    border: none;
+  }
+  .bottom-footertext ul {
+    float: none;
+    text-align: center;
+    display: block;
+  }
+  .bottom-footertext ul li {
+    display: inline-table;
+  }
+  .bottom-footertext p {
+    text-align: center;
+    display: block;
+    width: 100%;
+  }
+  nav.main-nav ul {
+    display: block;
+  }
+  nav.main-nav ul li {
+    display: block;
+    float: none;
+    width: 100% !important;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  nav.main-nav ul li a {
+    padding: 10px;
+  }
+  .navbar-nav {
+    margin: 0;
+  }
+  .what-we li {
+    padding: 0;
+  }
+  .navbar {
+    margin: 0;
+    position: absolute;
+    right: 0;
+    top: 30px;
+    left: 0;
+  }
+  .what-we {
+    margin-top: -68px;
+  }
+  section.footer .copyright-footer {
+    padding: 0px;
+  }
+  section.footer .copyright-footer ul {
+    float: none;
+    text-align: center;
+  }
+  section.footer .figimage h4 {
+    top: 2px;
+    font-size: 14px;
+  }
+  .products li {
+    width: 246px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .aside-wrapper {
+    display: none;
+  }
+  section.footer .figimage {
+    width: 100%;
+  }
+  .what-we {
+    margin-top: -44px;
+  }
+  .our-partners .jcarousel li {
+    float: left;
+    margin-right: 10px;
+    width: 115px;
+  }
+  section.footer .figimage h4 {
+    top: 14px;
+    font-size: 18px;
+  }
+  .products {
+    /*margin-left: 0;
+    margin-right: 0;*/
+  }
+  .products li {
+    width: 92%;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 736px) {
+  .page-logo {
+    width: 100%;
+  }
+  header .aside-wrapper {
+    float: left;
+  }
+  header .aside-wrapper li {
+    float: left;
+    padding: 5px;
+  }
+  header .aside-wrapper .contact-aside {
+    float: left;
+  }
+  header .aside-wrapper .social {
+    padding-top: 20px;
+  }
+  .about .inner-wrapper .row > div {
+    width: 100%;
+    padding-bottom: 15px;
+  }
+  nav.main-nav ul {
+    display: block;
+  }
+  nav.main-nav ul li {
+    display: block;
+    float: none;
+    width: 100% !important;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  nav.main-nav ul li a {
+    padding: 10px;
+  }
+  .navbar-nav {
+    margin: 0;
+  }
+  .top-footer .row > div {
+    width: 100%;
+  }
+  .our-partners .jcarousel li img {
+    width: 100%;
+  }
+  nav.main-nav ul li ul {
+    z-index: 9999;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 736px) and (orientation: portrait) {
+  header .aside-wrapper li {
+    padding: 0;
+    padding-right: 5px;
+  }
+  .our-partners .jcarousel li figure img {
+    width: 100%;
+  }
+  .page-logo {
+    width: 80%;
+  }
+}

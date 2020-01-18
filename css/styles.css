@@ -1,0 +1,159 @@
+
+/**--------------- Start of single_item style ------------------**/
+.product-box h3>a,.product-box h3>a:hover,.product-box h3>a:focus {
+    color:#000;
+    text-decoration:none;
+}
+.product-box:hover{
+  box-shadow: 5px 5px 3px #888888;
+}
+.product-box a{
+  text-decoration: none;
+  color: inherit;
+}
+.product-box h4{
+  font-weight: 900;
+  height:35px;
+  margin-top:8px;
+}
+.product-box .img-box{
+  margin:auto;
+  width: 160px;
+  height: 160px;
+}
+
+.product-box img{
+  margin:auto;
+  max-height:160px;
+}
+.product-box p{
+  margin:8px 0;
+}
+
+.product-box .product-summary{
+  height:55px;
+}
+
+.product-box .btn{
+  color: white;
+}
+
+.btn-cart{
+	padding: 8px 20px;
+	margin-top:30px; 
+	border: 1px solid #866;
+	border-radius: 0;
+	color: #ececec;
+	background: #333;
+}
+.btn-cart .badge{
+	margin-left: 4px; 
+	background: #ececec;
+	color: #333;
+}
+
+.btn-cart:hover{
+	background: #000;
+	color: #ececec;
+}
+
+.product-image{
+  border: 1px solid #eee;
+  padding: 30px;
+}
+
+.product-image img{
+	margin: auto;
+}
+
+.product_gallery img{
+  margin-top:12px;
+  margin-right:12px;
+  width: 100px;
+  height: 100px;
+  border: 1px solid #eee;
+}
+
+.product-box .btn{  
+  border-radius: 0px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    -ms-border-radius: 0px;
+    -o-border-radius: 0px;
+}
+
+.product-box .btn-default{
+	color:#555;
+} 
+
+.prod_title{
+	color: #866;
+  font-size: 2.2em;
+}
+.prod_desc{
+	color: #988;
+}
+.prod_price .price{
+	color: #866;
+  margin-top:20px;
+}
+.prod_qty{
+	color: #777;
+  margin-top:20px;
+}
+.prod_qty h2{
+  float:left;
+  margin-right: 10px;
+  padding-bottom: 20px;
+}
+.prod_qty input{
+  border: 1px solid #A51D23;
+  font-weight: bold;
+  font-size: 1.2em;
+  text-align: center;
+  width: 45px;
+  height: 45px;
+	color: #A51D23;
+}
+.btn-qty{
+  border: 1px solid #A50D03;
+  background: #A51D23;
+  color: #fff;
+}
+.btn-qty:hover{
+	background:#A50D03; 
+  color: #fff;
+}
+.btn-lg-addtocart{
+  width: 300px;
+  margin-top:20px;
+  border: 1px solid #A51D23;
+  background: #fff;
+  color: #A51D23;
+  font-weight: bold;
+}
+
+.btn-lg-addtocart:hover{
+  background: #A51D23;
+  color: #fff;
+}
+
+@media screen and (max-width: 1200px) {
+  .prod_title{
+  font-size: 1.8em;
+}
+.prod_price .price{
+  font-size: 1.8em;
+  margin-top:10px;
+}
+.prod_qty{
+}
+
+.btn-lg-addtocart{
+  margin-top:10px;
+}
+}
+
+.detailed-desc{
+  padding:10px 20px;
+}
